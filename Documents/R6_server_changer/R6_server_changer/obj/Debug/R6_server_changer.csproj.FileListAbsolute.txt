@@ -1,0 +1,9 @@
+C:\Users\LAD\Documents\R6_server_changer\R6_server_changer\obj\Debug\R6_server_changer.csprojResolveAssemblyReference.cache
+C:\Users\LAD\Documents\R6_server_changer\R6_server_changer\obj\Debug\R6_server_changer.Form1.resources
+C:\Users\LAD\Documents\R6_server_changer\R6_server_changer\obj\Debug\R6_server_changer.Properties.Resources.resources
+C:\Users\LAD\Documents\R6_server_changer\R6_server_changer\obj\Debug\R6_server_changer.csproj.GenerateResource.Cache
+C:\Users\LAD\Documents\R6_server_changer\R6_server_changer\bin\Debug\R6_server_changer.exe.config
+C:\Users\LAD\Documents\R6_server_changer\R6_server_changer\bin\Debug\R6_server_changer.exe
+C:\Users\LAD\Documents\R6_server_changer\R6_server_changer\bin\Debug\R6_server_changer.pdb
+C:\Users\LAD\Documents\R6_server_changer\R6_server_changer\obj\Debug\R6_server_changer.exe
+C:\Users\LAD\Documents\R6_server_changer\R6_server_changer\obj\Debug\R6_server_changer.pdb
